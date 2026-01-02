@@ -3,3 +3,5 @@ Developed an NLP pipeline to categorize large-scale news datasets automatically.
 **Libraries**\
 Gensim\
 Latent Dirichlet Allocation (LDA)
+**Dataset**\
+News articles of 3 different topics (Sports, Finance, Technology) from a news website
